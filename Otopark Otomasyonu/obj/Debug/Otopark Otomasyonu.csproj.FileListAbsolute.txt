@@ -1,0 +1,17 @@
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe.config
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.exe
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\bin\Debug\Otopark Otomasyonu.pdb
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmANAsayfa.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmAraçOtoparkYerleri.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.Properties.Resources.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.exe
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark Otomasyonu.pdb
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmAraçOtoparkKaydı.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmMarka.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmSeri.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmAraçOtoparkÇıkışı.resources
+C:\Users\onure\Desktop\visual\Otopark Otomasyonu\obj\Debug\Otopark_Otomasyonu.frmSatis.resources
